@@ -1,0 +1,218 @@
+28/11/2565 9:19:45 LOG:---------- Start Process ----------
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 287035799121.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 287036685551.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 303989675348.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 378450999382.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 439611854326.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG: Has file in directory
+28/11/2565 9:19:45 LOG: Processing: 905454677185.txt
+28/11/2565 9:19:45 ERR:Could not find a part of the path.
+28/11/2565 9:19:45 LOG:---------- End Process ----------
+28/11/2565 9:19:50 LOG:---------- Start Process ----------
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 287035799121.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 287036685551.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 303989675348.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 378450999382.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 439611854326.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG: Has file in directory
+28/11/2565 9:19:50 LOG: Processing: 905454677185.txt
+28/11/2565 9:19:50 ERR:Could not find a part of the path.
+28/11/2565 9:19:50 LOG:---------- End Process ----------
+28/11/2565 9:19:59 LOG:---------- Start Process ----------
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 287035799121.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 287036685551.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 303989675348.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 378450999382.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 439611854326.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:19:59 LOG: Has file in directory
+28/11/2565 9:19:59 LOG: Processing: 905454677185.txt
+28/11/2565 9:19:59 ERR:Could not find a part of the path.
+28/11/2565 9:20:00 LOG:---------- End Process ----------
+28/11/2565 9:20:51 LOG:---------- Start Process ----------
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 287035799121.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 287036685551.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 303989675348.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 378450999382.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 439611854326.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG: Has file in directory
+28/11/2565 9:20:51 LOG: Processing: 905454677185.txt
+28/11/2565 9:20:51 ERR:Could not find a part of the path.
+28/11/2565 9:20:51 LOG:---------- End Process ----------
+28/11/2565 9:22:14 LOG:---------- Start Process ----------
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 287035799121.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 287036685551.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 303989675348.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 378450999382.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 439611854326.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG: Has file in directory
+28/11/2565 9:22:14 LOG: Processing: 905454677185.txt
+28/11/2565 9:22:14 ERR:Could not find a part of the path.
+28/11/2565 9:22:14 LOG:---------- End Process ----------
+28/11/2565 9:22:36 LOG:---------- Start Process ----------
+28/11/2565 9:22:36 LOG: Has file in directory
+28/11/2565 9:22:36 LOG: Processing: 287035799121.txt
+28/11/2565 9:22:36 ERR:Could not find a part of the path.
+28/11/2565 9:22:36 LOG: Has file in directory
+28/11/2565 9:22:36 LOG: Processing: 287036685551.txt
+28/11/2565 9:22:37 ERR:Could not find a part of the path.
+28/11/2565 9:22:37 LOG: Has file in directory
+28/11/2565 9:22:37 LOG: Processing: 303989675348.txt
+28/11/2565 9:22:37 ERR:Could not find a part of the path.
+28/11/2565 9:22:37 LOG: Has file in directory
+28/11/2565 9:22:37 LOG: Processing: 378450999382.txt
+28/11/2565 9:22:37 ERR:Could not find a part of the path.
+28/11/2565 9:22:37 LOG: Has file in directory
+28/11/2565 9:22:37 LOG: Processing: 439611854326.txt
+28/11/2565 9:22:37 ERR:Could not find a part of the path.
+28/11/2565 9:22:37 LOG: Has file in directory
+28/11/2565 9:22:37 LOG: Processing: 905454677185.txt
+28/11/2565 9:22:37 ERR:Could not find a part of the path.
+28/11/2565 9:22:37 LOG:---------- End Process ----------
+28/11/2565 9:23:06 LOG:---------- Start Process ----------
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 287035799121.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 287036685551.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 303989675348.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 378450999382.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 439611854326.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG: Has file in directory
+28/11/2565 9:23:06 LOG: Processing: 905454677185.txt
+28/11/2565 9:23:06 ERR:Could not find a part of the path.
+28/11/2565 9:23:06 LOG:---------- End Process ----------
+28/11/2565 9:24:17 LOG:---------- Start Process ----------
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 287035799121.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 287035799121.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 287035799121.txt
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 287036685551.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 287036685551.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 287036685551.txt
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 303989675348.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 303989675348.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 303989675348.txt
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 378450999382.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 378450999382.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 378450999382.txt
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 439611854326.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 439611854326.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 439611854326.txt
+28/11/2565 9:24:17 LOG: Has file in directory
+28/11/2565 9:24:17 LOG: Processing: 905454677185.txt
+28/11/2565 9:24:17 LOG: Moved to build folder: 905454677185.txt
+28/11/2565 9:24:17 LOG: Moved Successfully: 905454677185.txt
+28/11/2565 9:24:17 LOG:---------- End Process ----------
+28/11/2565 9:24:17 LOG:---------- Start Translate Process ----------
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 287035799121.txt
+28/11/2565 9:24:18 LOG: Translating: 287035799121.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 287035799121.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 287035799121.txt
+28/11/2565 9:24:18 LOG: Created FHL: 287035799121.txt
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 287036685551.txt
+28/11/2565 9:24:18 LOG: Translating: 287036685551.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 287036685551.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 287036685551.txt
+28/11/2565 9:24:18 LOG: Created FHL: 287036685551.txt
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 303989675348.txt
+28/11/2565 9:24:18 LOG: Translating: 303989675348.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 303989675348.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 303989675348.txt
+28/11/2565 9:24:18 LOG: Created FHL: 303989675348.txt
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 378450999382.txt
+28/11/2565 9:24:18 LOG: Translating: 378450999382.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 378450999382.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 378450999382.txt
+28/11/2565 9:24:18 LOG: Created FHL: 378450999382.txt
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 439611854326.txt
+28/11/2565 9:24:18 LOG: Translating: 439611854326.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 439611854326.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 439611854326.txt
+28/11/2565 9:24:18 LOG: Created FHL: 439611854326.txt
+28/11/2565 9:24:18 LOG: Has file in directory
+28/11/2565 9:24:18 LOG: Reading FHL: 905454677185.txt
+28/11/2565 9:24:18 LOG: Translating: 905454677185.txt
+28/11/2565 9:24:18 LOG: Moved original file to keep folder: 905454677185.txt
+28/11/2565 9:24:18 LOG: Creating FHL: 905454677185.txt
+28/11/2565 9:24:18 LOG: Created FHL: 905454677185.txt
+28/11/2565 9:24:18 LOG:---------- End Translate Process ----------
+28/11/2565 9:39:29 LOG:---------- Start Process ----------
+28/11/2565 9:39:29 LOG: Has file in directory
+28/11/2565 9:39:29 LOG: Processing: 303989675348.txt
+28/11/2565 9:39:29 LOG: Moved to build folder: 303989675348.txt
+28/11/2565 9:39:29 LOG: Moved Successfully: 303989675348.txt
+28/11/2565 9:39:29 LOG:---------- End Process ----------
+28/11/2565 9:39:29 LOG:---------- Start Translate Process ----------
+28/11/2565 9:39:29 LOG: Has file in directory
+28/11/2565 9:39:29 LOG: Reading FHL: 303989675348.txt
+28/11/2565 9:39:29 LOG: Translating: 303989675348.txt
+28/11/2565 9:39:29 LOG: Moved original file to keep folder: 303989675348.txt
+28/11/2565 9:39:29 LOG: Creating FHL: 303989675348.txt
+28/11/2565 9:39:29 LOG: Created FHL: 303989675348.txt
+28/11/2565 9:39:29 LOG:---------- End Translate Process ----------

@@ -1,0 +1,9 @@
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\bin\Debug\DHLBFSDACService.exe.config
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\bin\Debug\DHLBFSDACService.exe
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\bin\Debug\DHLBFSDACService.pdb
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\bin\Debug\Dapper.dll
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\bin\Debug\Dapper.xml
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\obj\Debug\DHLBFSDACService.csproj.CoreCompileInputs.cache
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\obj\Debug\DHLBFSDACService.csproj.CopyComplete
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\obj\Debug\DHLBFSDACService.exe
+C:\Users\nkrobkla\source\repos\DHLBFSDACService\DHLBFSDACService\obj\Debug\DHLBFSDACService.pdb

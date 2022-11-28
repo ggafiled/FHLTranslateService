@@ -1,0 +1,42 @@
+24/11/2565 17:07:37 LOG:---------- Start Process ----------
+24/11/2565 17:07:37 LOG: Has file in directory
+24/11/2565 17:07:37 LOG: Processing: 127052430122.txt
+24/11/2565 17:07:37 LOG: Moved to build folder: 127052430122.txt
+24/11/2565 17:07:37 LOG: Moved Successfully: 127052430122.txt
+24/11/2565 17:07:37 LOG:---------- End Process ----------
+24/11/2565 17:07:37 LOG:---------- Start Translate Process ----------
+24/11/2565 17:07:37 LOG: Has file in directory
+24/11/2565 17:07:37 LOG: Reading FHL: 127052430122.txt
+24/11/2565 17:07:37 LOG: Translating: 127052430122.txt
+24/11/2565 17:07:38 LOG: Moved original file to keep folder: 127052430122.txt
+24/11/2565 17:07:38 LOG: Creating FHL: 127052430122.txt
+24/11/2565 17:07:38 LOG: Created FHL: 127052430122.txt
+24/11/2565 17:07:38 LOG:---------- End Translate Process ----------
+24/11/2565 17:10:17 LOG:---------- Start Process ----------
+24/11/2565 17:10:18 LOG: Has file in directory
+24/11/2565 17:10:18 LOG: Processing: 127052430122.txt
+24/11/2565 17:10:18 LOG: Moved to build folder: 127052430122.txt
+24/11/2565 17:10:18 LOG: Moved Successfully: 127052430122.txt
+24/11/2565 17:10:18 LOG:---------- End Process ----------
+24/11/2565 17:10:18 LOG:---------- Start Translate Process ----------
+24/11/2565 17:10:18 LOG: Has file in directory
+24/11/2565 17:10:18 LOG: Reading FHL: 127052430122.txt
+24/11/2565 17:10:18 LOG: Translating: 127052430122.txt
+24/11/2565 17:10:18 LOG: Moved original file to keep folder: 127052430122.txt
+24/11/2565 17:10:18 LOG: Creating FHL: 127052430122.txt
+24/11/2565 17:10:18 LOG: Created FHL: 127052430122.txt
+24/11/2565 17:10:18 LOG:---------- End Translate Process ----------
+24/11/2565 17:15:48 LOG:---------- Start Process ----------
+24/11/2565 17:15:48 LOG: Has file in directory
+24/11/2565 17:15:48 LOG: Processing: 127052430122.txt
+24/11/2565 17:15:48 LOG: Moved to build folder: 127052430122.txt
+24/11/2565 17:15:48 LOG: Moved Successfully: 127052430122.txt
+24/11/2565 17:15:48 LOG:---------- End Process ----------
+24/11/2565 17:15:48 LOG:---------- Start Translate Process ----------
+24/11/2565 17:15:48 LOG: Has file in directory
+24/11/2565 17:15:48 LOG: Reading FHL: 127052430122.txt
+24/11/2565 17:15:48 LOG: Translating: 127052430122.txt
+24/11/2565 17:15:48 LOG: Moved original file to keep folder: 127052430122.txt
+24/11/2565 17:15:48 LOG: Creating FHL: 127052430122.txt
+24/11/2565 17:15:48 LOG: Created FHL: 127052430122.txt
+24/11/2565 17:15:48 LOG:---------- End Translate Process ----------
